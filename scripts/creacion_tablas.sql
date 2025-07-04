@@ -1,0 +1,1 @@
+-- SQL script para creación de tablas
